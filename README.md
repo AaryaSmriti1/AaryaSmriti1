@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Aarya Smriti , a final year undergraduate from Lovely Professional University .<br>with majors in Computer Science & Engineering and specialization in Full Stack Development.<br>I thrive to have skilled hands in Java , Swift , Python programming languages . My proficiency in web technologies like HTML, CSS,Javascript and frameworks like ReactJs showcases my excellence in making dynamic web applications.<br>I hold Linux RedHat, DSA and IOS Development Certificates. I thrive on turning ideas into reality through code and collaboration. 
+Software Engineer with almost 2 years of experience in full-stack development, specializing in React.js, Next.js, Node.js, JavaScript, MongoDB  and enterprise application development. Proven track record of building scalable, high-performance web applications, developing reusable UI components, integrating RESTful APIs, and delivering end-to-end solutions in Agile environments. Experienced in working on enterprise ERP platforms, database management, and application enhancements while demonstrating strong problem-solving abilities, logical thinking, and a passion for developing efficient and maintainable software solutions.
+
 
 
 ## 🌐 Socials:
